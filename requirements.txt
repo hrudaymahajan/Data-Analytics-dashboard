@@ -1,0 +1,3 @@
+ˇstreamlit
+pandas
+plotly
