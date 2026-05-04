@@ -80,7 +80,7 @@ Data-Analytics-Dashboard/
 
 ### Step 1: Clone Repository
 
-git clone https://github.com/YOUR-USERNAME/Data-Analytics-Dashboard.git
+git clone  https://github.com/hrudaymahajan/Data-Analytics-dashboard
 
 ### Step 2: Go to Folder
 
