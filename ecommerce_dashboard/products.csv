@@ -1,0 +1,1021 @@
+product_id,product_name,category,price,rating
+101,Wireless Mouse,Electronics,799,4.3
+102,Keyboard,Electronics,1299,4.5
+103,T-Shirt,Clothing,499,4.1
+104,Jeans,Clothing,1499,4.4
+105,Smart Watch,Electronics,2999,4.6
+106,Running Shoes,Footwear,2499,4.5
+107,Backpack,Accessories,999,4.2
+108,Headphones,Electronics,1999,4.4
+109,Sunglasses,Accessories,699,4.0
+110,Water Bottle,Home,399,4.3
+111,Laptop Stand,Electronics,1199,4.4
+112,Office Chair,Furniture,6499,4.6
+113,Notebook Pack,Stationery,299,4.2
+114,Power Bank,Electronics,1799,4.5
+115,Smartphone Cover,Accessories,399,4.1
+116,Desk Lamp,Home,899,4.3
+117,Formal Shirt,Clothing,1299,4.4
+118,Sports Cap,Accessories,499,4.0
+119,Coffee Mug,Home,349,4.2
+120,Bluetooth Speaker,Electronics,2599,4.5
+121,Backpack,Accessories,999,4.2
+122,Bluetooth Speaker,Electronics,2599,4.5
+123,Smartphone Cover,Accessories,399,4.1
+124,Laptop Stand,Electronics,1199,4.4
+125,Headphones,Electronics,1999,4.4
+126,Backpack,Accessories,999,4.2
+127,Coffee Mug,Home,349,4.2
+128,Laptop Stand,Electronics,1199,4.4
+129,Laptop Stand,Electronics,1199,4.4
+130,Jeans,Clothing,1499,4.4
+131,Headphones,Electronics,1999,4.4
+132,T-Shirt,Clothing,499,4.1
+133,Keyboard,Electronics,1299,4.5
+134,Office Chair,Furniture,6499,4.6
+135,Running Shoes,Footwear,2499,4.5
+136,Keyboard,Electronics,1299,4.5
+137,Wireless Mouse,Electronics,799,4.3
+138,Office Chair,Furniture,6499,4.6
+139,Office Chair,Furniture,6499,4.6
+140,Formal Shirt,Clothing,1299,4.4
+141,Water Bottle,Home,399,4.3
+142,Desk Lamp,Home,899,4.3
+143,Smartphone Cover,Accessories,399,4.1
+144,Smartphone Cover,Accessories,399,4.1
+145,Coffee Mug,Home,349,4.2
+146,Office Chair,Furniture,6499,4.6
+147,Bluetooth Speaker,Electronics,2599,4.5
+148,T-Shirt,Clothing,499,4.1
+149,Smart Watch,Electronics,2999,4.6
+150,Coffee Mug,Home,349,4.2
+151,Backpack,Accessories,999,4.2
+152,Sunglasses,Accessories,699,4.0
+153,Backpack,Accessories,999,4.2
+154,Sports Cap,Accessories,499,4.0
+155,Jeans,Clothing,1499,4.4
+156,Power Bank,Electronics,1799,4.5
+157,Sports Cap,Accessories,499,4.0
+158,Sunglasses,Accessories,699,4.0
+159,Keyboard,Electronics,1299,4.5
+160,Bluetooth Speaker,Electronics,2599,4.5
+161,Smartphone Cover,Accessories,399,4.1
+162,Backpack,Accessories,999,4.2
+163,Office Chair,Furniture,6499,4.6
+164,Headphones,Electronics,1999,4.4
+165,Smartphone Cover,Accessories,399,4.1
+166,T-Shirt,Clothing,499,4.1
+167,Power Bank,Electronics,1799,4.5
+168,Formal Shirt,Clothing,1299,4.4
+169,Jeans,Clothing,1499,4.4
+170,Sports Cap,Accessories,499,4.0
+171,Headphones,Electronics,1999,4.4
+172,Jeans,Clothing,1499,4.4
+173,Keyboard,Electronics,1299,4.5
+174,Running Shoes,Footwear,2499,4.5
+175,Water Bottle,Home,399,4.3
+176,Jeans,Clothing,1499,4.4
+177,Sports Cap,Accessories,499,4.0
+178,Office Chair,Furniture,6499,4.6
+179,Keyboard,Electronics,1299,4.5
+180,Water Bottle,Home,399,4.3
+181,Jeans,Clothing,1499,4.4
+182,Power Bank,Electronics,1799,4.5
+183,Desk Lamp,Home,899,4.3
+184,Smartphone Cover,Accessories,399,4.1
+185,Headphones,Electronics,1999,4.4
+186,Power Bank,Electronics,1799,4.5
+187,Headphones,Electronics,1999,4.4
+188,Desk Lamp,Home,899,4.3
+189,Notebook Pack,Stationery,299,4.2
+190,Sports Cap,Accessories,499,4.0
+191,Smartphone Cover,Accessories,399,4.1
+192,Notebook Pack,Stationery,299,4.2
+193,Sunglasses,Accessories,699,4.0
+194,Smartphone Cover,Accessories,399,4.1
+195,Notebook Pack,Stationery,299,4.2
+196,Wireless Mouse,Electronics,799,4.3
+197,Backpack,Accessories,999,4.2
+198,Sunglasses,Accessories,699,4.0
+199,Wireless Mouse,Electronics,799,4.3
+200,Office Chair,Furniture,6499,4.6
+201,Headphones,Electronics,1999,4.4
+202,Laptop Stand,Electronics,1199,4.4
+203,Coffee Mug,Home,349,4.2
+204,Formal Shirt,Clothing,1299,4.4
+205,Headphones,Electronics,1999,4.4
+206,T-Shirt,Clothing,499,4.1
+207,T-Shirt,Clothing,499,4.1
+208,Wireless Mouse,Electronics,799,4.3
+209,Smart Watch,Electronics,2999,4.6
+210,Water Bottle,Home,399,4.3
+211,Backpack,Accessories,999,4.2
+212,Sunglasses,Accessories,699,4.0
+213,Backpack,Accessories,999,4.2
+214,Sunglasses,Accessories,699,4.0
+215,Headphones,Electronics,1999,4.4
+216,Office Chair,Furniture,6499,4.6
+217,Keyboard,Electronics,1299,4.5
+218,Wireless Mouse,Electronics,799,4.3
+219,Desk Lamp,Home,899,4.3
+220,Smart Watch,Electronics,2999,4.6
+221,T-Shirt,Clothing,499,4.1
+222,Office Chair,Furniture,6499,4.6
+223,Headphones,Electronics,1999,4.4
+224,T-Shirt,Clothing,499,4.1
+225,Wireless Mouse,Electronics,799,4.3
+226,T-Shirt,Clothing,499,4.1
+227,Smart Watch,Electronics,2999,4.6
+228,Smartphone Cover,Accessories,399,4.1
+229,Power Bank,Electronics,1799,4.5
+230,T-Shirt,Clothing,499,4.1
+231,Wireless Mouse,Electronics,799,4.3
+232,Smart Watch,Electronics,2999,4.6
+233,Power Bank,Electronics,1799,4.5
+234,Backpack,Accessories,999,4.2
+235,Sunglasses,Accessories,699,4.0
+236,Smartphone Cover,Accessories,399,4.1
+237,Smartphone Cover,Accessories,399,4.1
+238,Water Bottle,Home,399,4.3
+239,Notebook Pack,Stationery,299,4.2
+240,Coffee Mug,Home,349,4.2
+241,Backpack,Accessories,999,4.2
+242,Formal Shirt,Clothing,1299,4.4
+243,Bluetooth Speaker,Electronics,2599,4.5
+244,Jeans,Clothing,1499,4.4
+245,Smart Watch,Electronics,2999,4.6
+246,Backpack,Accessories,999,4.2
+247,Notebook Pack,Stationery,299,4.2
+248,Smartphone Cover,Accessories,399,4.1
+249,Laptop Stand,Electronics,1199,4.4
+250,Jeans,Clothing,1499,4.4
+251,Notebook Pack,Stationery,299,4.2
+252,Backpack,Accessories,999,4.2
+253,Coffee Mug,Home,349,4.2
+254,Keyboard,Electronics,1299,4.5
+255,Water Bottle,Home,399,4.3
+256,Notebook Pack,Stationery,299,4.2
+257,Running Shoes,Footwear,2499,4.5
+258,Office Chair,Furniture,6499,4.6
+259,Office Chair,Furniture,6499,4.6
+260,Bluetooth Speaker,Electronics,2599,4.5
+261,Laptop Stand,Electronics,1199,4.4
+262,Backpack,Accessories,999,4.2
+263,Wireless Mouse,Electronics,799,4.3
+264,Wireless Mouse,Electronics,799,4.3
+265,Bluetooth Speaker,Electronics,2599,4.5
+266,Notebook Pack,Stationery,299,4.2
+267,Sunglasses,Accessories,699,4.0
+268,T-Shirt,Clothing,499,4.1
+269,Backpack,Accessories,999,4.2
+270,Running Shoes,Footwear,2499,4.5
+271,Headphones,Electronics,1999,4.4
+272,Sunglasses,Accessories,699,4.0
+273,Smart Watch,Electronics,2999,4.6
+274,Wireless Mouse,Electronics,799,4.3
+275,Coffee Mug,Home,349,4.2
+276,Water Bottle,Home,399,4.3
+277,Office Chair,Furniture,6499,4.6
+278,Smartphone Cover,Accessories,399,4.1
+279,Sunglasses,Accessories,699,4.0
+280,Bluetooth Speaker,Electronics,2599,4.5
+281,Formal Shirt,Clothing,1299,4.4
+282,Formal Shirt,Clothing,1299,4.4
+283,Bluetooth Speaker,Electronics,2599,4.5
+284,Office Chair,Furniture,6499,4.6
+285,Backpack,Accessories,999,4.2
+286,Keyboard,Electronics,1299,4.5
+287,T-Shirt,Clothing,499,4.1
+288,Formal Shirt,Clothing,1299,4.4
+289,Smart Watch,Electronics,2999,4.6
+290,Formal Shirt,Clothing,1299,4.4
+291,Formal Shirt,Clothing,1299,4.4
+292,Formal Shirt,Clothing,1299,4.4
+293,Keyboard,Electronics,1299,4.5
+294,Keyboard,Electronics,1299,4.5
+295,Smart Watch,Electronics,2999,4.6
+296,Wireless Mouse,Electronics,799,4.3
+297,Wireless Mouse,Electronics,799,4.3
+298,Coffee Mug,Home,349,4.2
+299,Keyboard,Electronics,1299,4.5
+300,Office Chair,Furniture,6499,4.6
+301,Running Shoes,Footwear,2499,4.5
+302,Jeans,Clothing,1499,4.4
+303,Laptop Stand,Electronics,1199,4.4
+304,Formal Shirt,Clothing,1299,4.4
+305,Running Shoes,Footwear,2499,4.5
+306,Smart Watch,Electronics,2999,4.6
+307,Bluetooth Speaker,Electronics,2599,4.5
+308,Keyboard,Electronics,1299,4.5
+309,Running Shoes,Footwear,2499,4.5
+310,Laptop Stand,Electronics,1199,4.4
+311,Desk Lamp,Home,899,4.3
+312,Desk Lamp,Home,899,4.3
+313,Wireless Mouse,Electronics,799,4.3
+314,Sunglasses,Accessories,699,4.0
+315,Running Shoes,Footwear,2499,4.5
+316,Desk Lamp,Home,899,4.3
+317,T-Shirt,Clothing,499,4.1
+318,Bluetooth Speaker,Electronics,2599,4.5
+319,Jeans,Clothing,1499,4.4
+320,Coffee Mug,Home,349,4.2
+321,T-Shirt,Clothing,499,4.1
+322,Coffee Mug,Home,349,4.2
+323,Bluetooth Speaker,Electronics,2599,4.5
+324,Backpack,Accessories,999,4.2
+325,Bluetooth Speaker,Electronics,2599,4.5
+326,Sunglasses,Accessories,699,4.0
+327,Wireless Mouse,Electronics,799,4.3
+328,Headphones,Electronics,1999,4.4
+329,Backpack,Accessories,999,4.2
+330,Sports Cap,Accessories,499,4.0
+331,Headphones,Electronics,1999,4.4
+332,Wireless Mouse,Electronics,799,4.3
+333,Laptop Stand,Electronics,1199,4.4
+334,Sports Cap,Accessories,499,4.0
+335,Water Bottle,Home,399,4.3
+336,T-Shirt,Clothing,499,4.1
+337,Backpack,Accessories,999,4.2
+338,Desk Lamp,Home,899,4.3
+339,Desk Lamp,Home,899,4.3
+340,Bluetooth Speaker,Electronics,2599,4.5
+341,Formal Shirt,Clothing,1299,4.4
+342,Keyboard,Electronics,1299,4.5
+343,Wireless Mouse,Electronics,799,4.3
+344,Desk Lamp,Home,899,4.3
+345,Office Chair,Furniture,6499,4.6
+346,Smart Watch,Electronics,2999,4.6
+347,Smart Watch,Electronics,2999,4.6
+348,Sunglasses,Accessories,699,4.0
+349,Sunglasses,Accessories,699,4.0
+350,T-Shirt,Clothing,499,4.1
+351,Coffee Mug,Home,349,4.2
+352,Desk Lamp,Home,899,4.3
+353,Desk Lamp,Home,899,4.3
+354,T-Shirt,Clothing,499,4.1
+355,Bluetooth Speaker,Electronics,2599,4.5
+356,Wireless Mouse,Electronics,799,4.3
+357,Bluetooth Speaker,Electronics,2599,4.5
+358,Laptop Stand,Electronics,1199,4.4
+359,Formal Shirt,Clothing,1299,4.4
+360,Headphones,Electronics,1999,4.4
+361,Jeans,Clothing,1499,4.4
+362,Running Shoes,Footwear,2499,4.5
+363,Headphones,Electronics,1999,4.4
+364,Bluetooth Speaker,Electronics,2599,4.5
+365,T-Shirt,Clothing,499,4.1
+366,Desk Lamp,Home,899,4.3
+367,T-Shirt,Clothing,499,4.1
+368,Sports Cap,Accessories,499,4.0
+369,Power Bank,Electronics,1799,4.5
+370,Sports Cap,Accessories,499,4.0
+371,Keyboard,Electronics,1299,4.5
+372,T-Shirt,Clothing,499,4.1
+373,Desk Lamp,Home,899,4.3
+374,Sunglasses,Accessories,699,4.0
+375,Jeans,Clothing,1499,4.4
+376,Wireless Mouse,Electronics,799,4.3
+377,Jeans,Clothing,1499,4.4
+378,Wireless Mouse,Electronics,799,4.3
+379,Power Bank,Electronics,1799,4.5
+380,Desk Lamp,Home,899,4.3
+381,Bluetooth Speaker,Electronics,2599,4.5
+382,Headphones,Electronics,1999,4.4
+383,Backpack,Accessories,999,4.2
+384,T-Shirt,Clothing,499,4.1
+385,Formal Shirt,Clothing,1299,4.4
+386,Wireless Mouse,Electronics,799,4.3
+387,Desk Lamp,Home,899,4.3
+388,Office Chair,Furniture,6499,4.6
+389,Coffee Mug,Home,349,4.2
+390,Power Bank,Electronics,1799,4.5
+391,Running Shoes,Footwear,2499,4.5
+392,Running Shoes,Footwear,2499,4.5
+393,Notebook Pack,Stationery,299,4.2
+394,Coffee Mug,Home,349,4.2
+395,Headphones,Electronics,1999,4.4
+396,Keyboard,Electronics,1299,4.5
+397,Wireless Mouse,Electronics,799,4.3
+398,Smartphone Cover,Accessories,399,4.1
+399,Wireless Mouse,Electronics,799,4.3
+400,Smart Watch,Electronics,2999,4.6
+401,Desk Lamp,Home,899,4.3
+402,Coffee Mug,Home,349,4.2
+403,Jeans,Clothing,1499,4.4
+404,T-Shirt,Clothing,499,4.1
+405,Formal Shirt,Clothing,1299,4.4
+406,Formal Shirt,Clothing,1299,4.4
+407,Office Chair,Furniture,6499,4.6
+408,Power Bank,Electronics,1799,4.5
+409,Running Shoes,Footwear,2499,4.5
+410,T-Shirt,Clothing,499,4.1
+411,Sunglasses,Accessories,699,4.0
+412,Smart Watch,Electronics,2999,4.6
+413,Formal Shirt,Clothing,1299,4.4
+414,Power Bank,Electronics,1799,4.5
+415,T-Shirt,Clothing,499,4.1
+416,Wireless Mouse,Electronics,799,4.3
+417,Bluetooth Speaker,Electronics,2599,4.5
+418,Wireless Mouse,Electronics,799,4.3
+419,T-Shirt,Clothing,499,4.1
+420,Sports Cap,Accessories,499,4.0
+421,Water Bottle,Home,399,4.3
+422,T-Shirt,Clothing,499,4.1
+423,Headphones,Electronics,1999,4.4
+424,Power Bank,Electronics,1799,4.5
+425,Sports Cap,Accessories,499,4.0
+426,Smartphone Cover,Accessories,399,4.1
+427,Keyboard,Electronics,1299,4.5
+428,Water Bottle,Home,399,4.3
+429,Keyboard,Electronics,1299,4.5
+430,Formal Shirt,Clothing,1299,4.4
+431,Headphones,Electronics,1999,4.4
+432,Wireless Mouse,Electronics,799,4.3
+433,Sunglasses,Accessories,699,4.0
+434,Laptop Stand,Electronics,1199,4.4
+435,Desk Lamp,Home,899,4.3
+436,Backpack,Accessories,999,4.2
+437,Water Bottle,Home,399,4.3
+438,T-Shirt,Clothing,499,4.1
+439,Sports Cap,Accessories,499,4.0
+440,Notebook Pack,Stationery,299,4.2
+441,Backpack,Accessories,999,4.2
+442,Jeans,Clothing,1499,4.4
+443,Notebook Pack,Stationery,299,4.2
+444,Bluetooth Speaker,Electronics,2599,4.5
+445,Wireless Mouse,Electronics,799,4.3
+446,Headphones,Electronics,1999,4.4
+447,Power Bank,Electronics,1799,4.5
+448,Desk Lamp,Home,899,4.3
+449,Power Bank,Electronics,1799,4.5
+450,Office Chair,Furniture,6499,4.6
+451,Coffee Mug,Home,349,4.2
+452,Smartphone Cover,Accessories,399,4.1
+453,Keyboard,Electronics,1299,4.5
+454,Keyboard,Electronics,1299,4.5
+455,Coffee Mug,Home,349,4.2
+456,Formal Shirt,Clothing,1299,4.4
+457,Bluetooth Speaker,Electronics,2599,4.5
+458,Water Bottle,Home,399,4.3
+459,Running Shoes,Footwear,2499,4.5
+460,Smartphone Cover,Accessories,399,4.1
+461,Laptop Stand,Electronics,1199,4.4
+462,Smart Watch,Electronics,2999,4.6
+463,Wireless Mouse,Electronics,799,4.3
+464,Headphones,Electronics,1999,4.4
+465,Office Chair,Furniture,6499,4.6
+466,Office Chair,Furniture,6499,4.6
+467,Smart Watch,Electronics,2999,4.6
+468,Backpack,Accessories,999,4.2
+469,Jeans,Clothing,1499,4.4
+470,Running Shoes,Footwear,2499,4.5
+471,Notebook Pack,Stationery,299,4.2
+472,Bluetooth Speaker,Electronics,2599,4.5
+473,Smartphone Cover,Accessories,399,4.1
+474,T-Shirt,Clothing,499,4.1
+475,Headphones,Electronics,1999,4.4
+476,Bluetooth Speaker,Electronics,2599,4.5
+477,Desk Lamp,Home,899,4.3
+478,Notebook Pack,Stationery,299,4.2
+479,Sports Cap,Accessories,499,4.0
+480,Water Bottle,Home,399,4.3
+481,Coffee Mug,Home,349,4.2
+482,Formal Shirt,Clothing,1299,4.4
+483,Coffee Mug,Home,349,4.2
+484,Smart Watch,Electronics,2999,4.6
+485,Sunglasses,Accessories,699,4.0
+486,Office Chair,Furniture,6499,4.6
+487,Wireless Mouse,Electronics,799,4.3
+488,Wireless Mouse,Electronics,799,4.3
+489,Smartphone Cover,Accessories,399,4.1
+490,Keyboard,Electronics,1299,4.5
+491,Desk Lamp,Home,899,4.3
+492,Headphones,Electronics,1999,4.4
+493,Notebook Pack,Stationery,299,4.2
+494,Wireless Mouse,Electronics,799,4.3
+495,Desk Lamp,Home,899,4.3
+496,Backpack,Accessories,999,4.2
+497,Smart Watch,Electronics,2999,4.6
+498,T-Shirt,Clothing,499,4.1
+499,Office Chair,Furniture,6499,4.6
+500,Desk Lamp,Home,899,4.3
+501,Coffee Mug,Home,349,4.2
+502,Smart Watch,Electronics,2999,4.6
+503,Power Bank,Electronics,1799,4.5
+504,Smart Watch,Electronics,2999,4.6
+505,Smartphone Cover,Accessories,399,4.1
+506,Formal Shirt,Clothing,1299,4.4
+507,Power Bank,Electronics,1799,4.5
+508,Bluetooth Speaker,Electronics,2599,4.5
+509,Smart Watch,Electronics,2999,4.6
+510,Office Chair,Furniture,6499,4.6
+511,Desk Lamp,Home,899,4.3
+512,Desk Lamp,Home,899,4.3
+513,Backpack,Accessories,999,4.2
+514,Jeans,Clothing,1499,4.4
+515,Wireless Mouse,Electronics,799,4.3
+516,Smart Watch,Electronics,2999,4.6
+517,Water Bottle,Home,399,4.3
+518,Smart Watch,Electronics,2999,4.6
+519,Jeans,Clothing,1499,4.4
+520,Keyboard,Electronics,1299,4.5
+521,Bluetooth Speaker,Electronics,2599,4.5
+522,Water Bottle,Home,399,4.3
+523,Coffee Mug,Home,349,4.2
+524,Wireless Mouse,Electronics,799,4.3
+525,Smart Watch,Electronics,2999,4.6
+526,Notebook Pack,Stationery,299,4.2
+527,Jeans,Clothing,1499,4.4
+528,Desk Lamp,Home,899,4.3
+529,Desk Lamp,Home,899,4.3
+530,Keyboard,Electronics,1299,4.5
+531,Formal Shirt,Clothing,1299,4.4
+532,Bluetooth Speaker,Electronics,2599,4.5
+533,Office Chair,Furniture,6499,4.6
+534,Sports Cap,Accessories,499,4.0
+535,T-Shirt,Clothing,499,4.1
+536,Wireless Mouse,Electronics,799,4.3
+537,Wireless Mouse,Electronics,799,4.3
+538,Coffee Mug,Home,349,4.2
+539,Laptop Stand,Electronics,1199,4.4
+540,Smart Watch,Electronics,2999,4.6
+541,Office Chair,Furniture,6499,4.6
+542,T-Shirt,Clothing,499,4.1
+543,Wireless Mouse,Electronics,799,4.3
+544,Wireless Mouse,Electronics,799,4.3
+545,Headphones,Electronics,1999,4.4
+546,Water Bottle,Home,399,4.3
+547,Laptop Stand,Electronics,1199,4.4
+548,Office Chair,Furniture,6499,4.6
+549,Notebook Pack,Stationery,299,4.2
+550,Office Chair,Furniture,6499,4.6
+551,Power Bank,Electronics,1799,4.5
+552,Keyboard,Electronics,1299,4.5
+553,Coffee Mug,Home,349,4.2
+554,Sports Cap,Accessories,499,4.0
+555,T-Shirt,Clothing,499,4.1
+556,Formal Shirt,Clothing,1299,4.4
+557,Headphones,Electronics,1999,4.4
+558,Water Bottle,Home,399,4.3
+559,Keyboard,Electronics,1299,4.5
+560,Coffee Mug,Home,349,4.2
+561,Sunglasses,Accessories,699,4.0
+562,Backpack,Accessories,999,4.2
+563,Jeans,Clothing,1499,4.4
+564,Sports Cap,Accessories,499,4.0
+565,Notebook Pack,Stationery,299,4.2
+566,Laptop Stand,Electronics,1199,4.4
+567,Jeans,Clothing,1499,4.4
+568,Jeans,Clothing,1499,4.4
+569,Water Bottle,Home,399,4.3
+570,Smart Watch,Electronics,2999,4.6
+571,Sunglasses,Accessories,699,4.0
+572,T-Shirt,Clothing,499,4.1
+573,Formal Shirt,Clothing,1299,4.4
+574,T-Shirt,Clothing,499,4.1
+575,Desk Lamp,Home,899,4.3
+576,Jeans,Clothing,1499,4.4
+577,Sports Cap,Accessories,499,4.0
+578,Formal Shirt,Clothing,1299,4.4
+579,Backpack,Accessories,999,4.2
+580,Smart Watch,Electronics,2999,4.6
+581,Office Chair,Furniture,6499,4.6
+582,Formal Shirt,Clothing,1299,4.4
+583,Notebook Pack,Stationery,299,4.2
+584,T-Shirt,Clothing,499,4.1
+585,Sunglasses,Accessories,699,4.0
+586,Formal Shirt,Clothing,1299,4.4
+587,Formal Shirt,Clothing,1299,4.4
+588,Bluetooth Speaker,Electronics,2599,4.5
+589,Desk Lamp,Home,899,4.3
+590,Notebook Pack,Stationery,299,4.2
+591,Coffee Mug,Home,349,4.2
+592,Formal Shirt,Clothing,1299,4.4
+593,Jeans,Clothing,1499,4.4
+594,Office Chair,Furniture,6499,4.6
+595,Sunglasses,Accessories,699,4.0
+596,Coffee Mug,Home,349,4.2
+597,Office Chair,Furniture,6499,4.6
+598,Sunglasses,Accessories,699,4.0
+599,Backpack,Accessories,999,4.2
+600,Power Bank,Electronics,1799,4.5
+601,Bluetooth Speaker,Electronics,2599,4.5
+602,Coffee Mug,Home,349,4.2
+603,Smartphone Cover,Accessories,399,4.1
+604,Desk Lamp,Home,899,4.3
+605,Smart Watch,Electronics,2999,4.6
+606,T-Shirt,Clothing,499,4.1
+607,Office Chair,Furniture,6499,4.6
+608,Bluetooth Speaker,Electronics,2599,4.5
+609,Jeans,Clothing,1499,4.4
+610,Desk Lamp,Home,899,4.3
+611,Backpack,Accessories,999,4.2
+612,Notebook Pack,Stationery,299,4.2
+613,Water Bottle,Home,399,4.3
+614,Backpack,Accessories,999,4.2
+615,Power Bank,Electronics,1799,4.5
+616,Smart Watch,Electronics,2999,4.6
+617,T-Shirt,Clothing,499,4.1
+618,Laptop Stand,Electronics,1199,4.4
+619,Laptop Stand,Electronics,1199,4.4
+620,Sports Cap,Accessories,499,4.0
+621,Smartphone Cover,Accessories,399,4.1
+622,Office Chair,Furniture,6499,4.6
+623,Sunglasses,Accessories,699,4.0
+624,Water Bottle,Home,399,4.3
+625,Office Chair,Furniture,6499,4.6
+626,Formal Shirt,Clothing,1299,4.4
+627,Running Shoes,Footwear,2499,4.5
+628,Backpack,Accessories,999,4.2
+629,Power Bank,Electronics,1799,4.5
+630,Notebook Pack,Stationery,299,4.2
+631,Headphones,Electronics,1999,4.4
+632,Water Bottle,Home,399,4.3
+633,Sunglasses,Accessories,699,4.0
+634,Sports Cap,Accessories,499,4.0
+635,Keyboard,Electronics,1299,4.5
+636,Smart Watch,Electronics,2999,4.6
+637,Smart Watch,Electronics,2999,4.6
+638,Running Shoes,Footwear,2499,4.5
+639,Coffee Mug,Home,349,4.2
+640,Headphones,Electronics,1999,4.4
+641,Desk Lamp,Home,899,4.3
+642,Notebook Pack,Stationery,299,4.2
+643,Wireless Mouse,Electronics,799,4.3
+644,Bluetooth Speaker,Electronics,2599,4.5
+645,Formal Shirt,Clothing,1299,4.4
+646,Backpack,Accessories,999,4.2
+647,Notebook Pack,Stationery,299,4.2
+648,Jeans,Clothing,1499,4.4
+649,Jeans,Clothing,1499,4.4
+650,Running Shoes,Footwear,2499,4.5
+651,Coffee Mug,Home,349,4.2
+652,Office Chair,Furniture,6499,4.6
+653,Backpack,Accessories,999,4.2
+654,Water Bottle,Home,399,4.3
+655,Coffee Mug,Home,349,4.2
+656,Backpack,Accessories,999,4.2
+657,T-Shirt,Clothing,499,4.1
+658,Notebook Pack,Stationery,299,4.2
+659,Notebook Pack,Stationery,299,4.2
+660,Sports Cap,Accessories,499,4.0
+661,Bluetooth Speaker,Electronics,2599,4.5
+662,Headphones,Electronics,1999,4.4
+663,Sunglasses,Accessories,699,4.0
+664,Backpack,Accessories,999,4.2
+665,Wireless Mouse,Electronics,799,4.3
+666,T-Shirt,Clothing,499,4.1
+667,Notebook Pack,Stationery,299,4.2
+668,Formal Shirt,Clothing,1299,4.4
+669,Wireless Mouse,Electronics,799,4.3
+670,Running Shoes,Footwear,2499,4.5
+671,Running Shoes,Footwear,2499,4.5
+672,Office Chair,Furniture,6499,4.6
+673,Notebook Pack,Stationery,299,4.2
+674,Notebook Pack,Stationery,299,4.2
+675,Smartphone Cover,Accessories,399,4.1
+676,Desk Lamp,Home,899,4.3
+677,Laptop Stand,Electronics,1199,4.4
+678,Smart Watch,Electronics,2999,4.6
+679,Jeans,Clothing,1499,4.4
+680,T-Shirt,Clothing,499,4.1
+681,Coffee Mug,Home,349,4.2
+682,Bluetooth Speaker,Electronics,2599,4.5
+683,Sports Cap,Accessories,499,4.0
+684,Smartphone Cover,Accessories,399,4.1
+685,Sunglasses,Accessories,699,4.0
+686,Formal Shirt,Clothing,1299,4.4
+687,Power Bank,Electronics,1799,4.5
+688,Smartphone Cover,Accessories,399,4.1
+689,Wireless Mouse,Electronics,799,4.3
+690,T-Shirt,Clothing,499,4.1
+691,Desk Lamp,Home,899,4.3
+692,Laptop Stand,Electronics,1199,4.4
+693,Office Chair,Furniture,6499,4.6
+694,Water Bottle,Home,399,4.3
+695,Desk Lamp,Home,899,4.3
+696,Headphones,Electronics,1999,4.4
+697,Running Shoes,Footwear,2499,4.5
+698,Office Chair,Furniture,6499,4.6
+699,Headphones,Electronics,1999,4.4
+700,Jeans,Clothing,1499,4.4
+701,Headphones,Electronics,1999,4.4
+702,Sports Cap,Accessories,499,4.0
+703,Smart Watch,Electronics,2999,4.6
+704,Sunglasses,Accessories,699,4.0
+705,Jeans,Clothing,1499,4.4
+706,Formal Shirt,Clothing,1299,4.4
+707,Sunglasses,Accessories,699,4.0
+708,Wireless Mouse,Electronics,799,4.3
+709,Bluetooth Speaker,Electronics,2599,4.5
+710,Notebook Pack,Stationery,299,4.2
+711,Desk Lamp,Home,899,4.3
+712,Notebook Pack,Stationery,299,4.2
+713,Power Bank,Electronics,1799,4.5
+714,T-Shirt,Clothing,499,4.1
+715,Running Shoes,Footwear,2499,4.5
+716,Sports Cap,Accessories,499,4.0
+717,Coffee Mug,Home,349,4.2
+718,Smart Watch,Electronics,2999,4.6
+719,Smartphone Cover,Accessories,399,4.1
+720,Keyboard,Electronics,1299,4.5
+721,Water Bottle,Home,399,4.3
+722,Sports Cap,Accessories,499,4.0
+723,Notebook Pack,Stationery,299,4.2
+724,Smart Watch,Electronics,2999,4.6
+725,Wireless Mouse,Electronics,799,4.3
+726,Wireless Mouse,Electronics,799,4.3
+727,Sports Cap,Accessories,499,4.0
+728,Smartphone Cover,Accessories,399,4.1
+729,Formal Shirt,Clothing,1299,4.4
+730,Laptop Stand,Electronics,1199,4.4
+731,Formal Shirt,Clothing,1299,4.4
+732,Notebook Pack,Stationery,299,4.2
+733,Wireless Mouse,Electronics,799,4.3
+734,Keyboard,Electronics,1299,4.5
+735,Sunglasses,Accessories,699,4.0
+736,T-Shirt,Clothing,499,4.1
+737,Wireless Mouse,Electronics,799,4.3
+738,Desk Lamp,Home,899,4.3
+739,Running Shoes,Footwear,2499,4.5
+740,Formal Shirt,Clothing,1299,4.4
+741,Smart Watch,Electronics,2999,4.6
+742,Smart Watch,Electronics,2999,4.6
+743,Running Shoes,Footwear,2499,4.5
+744,T-Shirt,Clothing,499,4.1
+745,Smart Watch,Electronics,2999,4.6
+746,Smart Watch,Electronics,2999,4.6
+747,Water Bottle,Home,399,4.3
+748,Water Bottle,Home,399,4.3
+749,Coffee Mug,Home,349,4.2
+750,Formal Shirt,Clothing,1299,4.4
+751,Power Bank,Electronics,1799,4.5
+752,Sunglasses,Accessories,699,4.0
+753,Power Bank,Electronics,1799,4.5
+754,Wireless Mouse,Electronics,799,4.3
+755,Coffee Mug,Home,349,4.2
+756,Notebook Pack,Stationery,299,4.2
+757,Notebook Pack,Stationery,299,4.2
+758,Jeans,Clothing,1499,4.4
+759,Wireless Mouse,Electronics,799,4.3
+760,Formal Shirt,Clothing,1299,4.4
+761,Headphones,Electronics,1999,4.4
+762,Keyboard,Electronics,1299,4.5
+763,Headphones,Electronics,1999,4.4
+764,Backpack,Accessories,999,4.2
+765,Keyboard,Electronics,1299,4.5
+766,T-Shirt,Clothing,499,4.1
+767,Sports Cap,Accessories,499,4.0
+768,Office Chair,Furniture,6499,4.6
+769,Wireless Mouse,Electronics,799,4.3
+770,Office Chair,Furniture,6499,4.6
+771,Smart Watch,Electronics,2999,4.6
+772,Formal Shirt,Clothing,1299,4.4
+773,Desk Lamp,Home,899,4.3
+774,Smartphone Cover,Accessories,399,4.1
+775,Smartphone Cover,Accessories,399,4.1
+776,Smart Watch,Electronics,2999,4.6
+777,Power Bank,Electronics,1799,4.5
+778,Keyboard,Electronics,1299,4.5
+779,Laptop Stand,Electronics,1199,4.4
+780,Coffee Mug,Home,349,4.2
+781,Backpack,Accessories,999,4.2
+782,Running Shoes,Footwear,2499,4.5
+783,Keyboard,Electronics,1299,4.5
+784,Running Shoes,Footwear,2499,4.5
+785,Sports Cap,Accessories,499,4.0
+786,Keyboard,Electronics,1299,4.5
+787,Sports Cap,Accessories,499,4.0
+788,Smartphone Cover,Accessories,399,4.1
+789,Coffee Mug,Home,349,4.2
+790,Keyboard,Electronics,1299,4.5
+791,Bluetooth Speaker,Electronics,2599,4.5
+792,Running Shoes,Footwear,2499,4.5
+793,Wireless Mouse,Electronics,799,4.3
+794,Smartphone Cover,Accessories,399,4.1
+795,Water Bottle,Home,399,4.3
+796,Coffee Mug,Home,349,4.2
+797,Formal Shirt,Clothing,1299,4.4
+798,Smart Watch,Electronics,2999,4.6
+799,Jeans,Clothing,1499,4.4
+800,Water Bottle,Home,399,4.3
+801,Formal Shirt,Clothing,1299,4.4
+802,Water Bottle,Home,399,4.3
+803,Formal Shirt,Clothing,1299,4.4
+804,Bluetooth Speaker,Electronics,2599,4.5
+805,Smart Watch,Electronics,2999,4.6
+806,Keyboard,Electronics,1299,4.5
+807,Running Shoes,Footwear,2499,4.5
+808,Keyboard,Electronics,1299,4.5
+809,Notebook Pack,Stationery,299,4.2
+810,Laptop Stand,Electronics,1199,4.4
+811,Laptop Stand,Electronics,1199,4.4
+812,Desk Lamp,Home,899,4.3
+813,Laptop Stand,Electronics,1199,4.4
+814,Coffee Mug,Home,349,4.2
+815,Smartphone Cover,Accessories,399,4.1
+816,Desk Lamp,Home,899,4.3
+817,Laptop Stand,Electronics,1199,4.4
+818,Desk Lamp,Home,899,4.3
+819,Headphones,Electronics,1999,4.4
+820,Jeans,Clothing,1499,4.4
+821,Headphones,Electronics,1999,4.4
+822,Jeans,Clothing,1499,4.4
+823,T-Shirt,Clothing,499,4.1
+824,T-Shirt,Clothing,499,4.1
+825,Sports Cap,Accessories,499,4.0
+826,Coffee Mug,Home,349,4.2
+827,Coffee Mug,Home,349,4.2
+828,Smart Watch,Electronics,2999,4.6
+829,Sports Cap,Accessories,499,4.0
+830,Water Bottle,Home,399,4.3
+831,Running Shoes,Footwear,2499,4.5
+832,Wireless Mouse,Electronics,799,4.3
+833,Smart Watch,Electronics,2999,4.6
+834,Sunglasses,Accessories,699,4.0
+835,Office Chair,Furniture,6499,4.6
+836,Power Bank,Electronics,1799,4.5
+837,Keyboard,Electronics,1299,4.5
+838,Formal Shirt,Clothing,1299,4.4
+839,Power Bank,Electronics,1799,4.5
+840,Notebook Pack,Stationery,299,4.2
+841,Sunglasses,Accessories,699,4.0
+842,Smartphone Cover,Accessories,399,4.1
+843,Smartphone Cover,Accessories,399,4.1
+844,Laptop Stand,Electronics,1199,4.4
+845,Desk Lamp,Home,899,4.3
+846,Formal Shirt,Clothing,1299,4.4
+847,Jeans,Clothing,1499,4.4
+848,Wireless Mouse,Electronics,799,4.3
+849,Headphones,Electronics,1999,4.4
+850,Formal Shirt,Clothing,1299,4.4
+851,T-Shirt,Clothing,499,4.1
+852,Bluetooth Speaker,Electronics,2599,4.5
+853,Smartphone Cover,Accessories,399,4.1
+854,Smartphone Cover,Accessories,399,4.1
+855,Power Bank,Electronics,1799,4.5
+856,Power Bank,Electronics,1799,4.5
+857,Keyboard,Electronics,1299,4.5
+858,Notebook Pack,Stationery,299,4.2
+859,Power Bank,Electronics,1799,4.5
+860,Coffee Mug,Home,349,4.2
+861,Backpack,Accessories,999,4.2
+862,T-Shirt,Clothing,499,4.1
+863,Smartphone Cover,Accessories,399,4.1
+864,Power Bank,Electronics,1799,4.5
+865,Laptop Stand,Electronics,1199,4.4
+866,Smartphone Cover,Accessories,399,4.1
+867,Notebook Pack,Stationery,299,4.2
+868,Sports Cap,Accessories,499,4.0
+869,Running Shoes,Footwear,2499,4.5
+870,T-Shirt,Clothing,499,4.1
+871,Coffee Mug,Home,349,4.2
+872,Smartphone Cover,Accessories,399,4.1
+873,Smart Watch,Electronics,2999,4.6
+874,Water Bottle,Home,399,4.3
+875,Backpack,Accessories,999,4.2
+876,Formal Shirt,Clothing,1299,4.4
+877,Backpack,Accessories,999,4.2
+878,Office Chair,Furniture,6499,4.6
+879,Formal Shirt,Clothing,1299,4.4
+880,Notebook Pack,Stationery,299,4.2
+881,Bluetooth Speaker,Electronics,2599,4.5
+882,Jeans,Clothing,1499,4.4
+883,Water Bottle,Home,399,4.3
+884,T-Shirt,Clothing,499,4.1
+885,Sunglasses,Accessories,699,4.0
+886,Notebook Pack,Stationery,299,4.2
+887,Sports Cap,Accessories,499,4.0
+888,Smartphone Cover,Accessories,399,4.1
+889,Jeans,Clothing,1499,4.4
+890,Smartphone Cover,Accessories,399,4.1
+891,Keyboard,Electronics,1299,4.5
+892,Smartphone Cover,Accessories,399,4.1
+893,Headphones,Electronics,1999,4.4
+894,Headphones,Electronics,1999,4.4
+895,Formal Shirt,Clothing,1299,4.4
+896,Office Chair,Furniture,6499,4.6
+897,Coffee Mug,Home,349,4.2
+898,Water Bottle,Home,399,4.3
+899,Sunglasses,Accessories,699,4.0
+900,Smart Watch,Electronics,2999,4.6
+901,Running Shoes,Footwear,2499,4.5
+902,Bluetooth Speaker,Electronics,2599,4.5
+903,Keyboard,Electronics,1299,4.5
+904,Notebook Pack,Stationery,299,4.2
+905,Running Shoes,Footwear,2499,4.5
+906,Smart Watch,Electronics,2999,4.6
+907,Wireless Mouse,Electronics,799,4.3
+908,Running Shoes,Footwear,2499,4.5
+909,Running Shoes,Footwear,2499,4.5
+910,Desk Lamp,Home,899,4.3
+911,Jeans,Clothing,1499,4.4
+912,Laptop Stand,Electronics,1199,4.4
+913,Sunglasses,Accessories,699,4.0
+914,T-Shirt,Clothing,499,4.1
+915,Coffee Mug,Home,349,4.2
+916,Headphones,Electronics,1999,4.4
+917,Smart Watch,Electronics,2999,4.6
+918,Jeans,Clothing,1499,4.4
+919,Running Shoes,Footwear,2499,4.5
+920,Keyboard,Electronics,1299,4.5
+921,Bluetooth Speaker,Electronics,2599,4.5
+922,Laptop Stand,Electronics,1199,4.4
+923,Jeans,Clothing,1499,4.4
+924,Smartphone Cover,Accessories,399,4.1
+925,Running Shoes,Footwear,2499,4.5
+926,Formal Shirt,Clothing,1299,4.4
+927,Running Shoes,Footwear,2499,4.5
+928,Coffee Mug,Home,349,4.2
+929,Keyboard,Electronics,1299,4.5
+930,Smartphone Cover,Accessories,399,4.1
+931,Laptop Stand,Electronics,1199,4.4
+932,Headphones,Electronics,1999,4.4
+933,Coffee Mug,Home,349,4.2
+934,Notebook Pack,Stationery,299,4.2
+935,Office Chair,Furniture,6499,4.6
+936,Smart Watch,Electronics,2999,4.6
+937,Running Shoes,Footwear,2499,4.5
+938,Jeans,Clothing,1499,4.4
+939,Coffee Mug,Home,349,4.2
+940,Bluetooth Speaker,Electronics,2599,4.5
+941,Wireless Mouse,Electronics,799,4.3
+942,Bluetooth Speaker,Electronics,2599,4.5
+943,Formal Shirt,Clothing,1299,4.4
+944,Office Chair,Furniture,6499,4.6
+945,Smartphone Cover,Accessories,399,4.1
+946,Wireless Mouse,Electronics,799,4.3
+947,Power Bank,Electronics,1799,4.5
+948,Running Shoes,Footwear,2499,4.5
+949,Smart Watch,Electronics,2999,4.6
+950,Laptop Stand,Electronics,1199,4.4
+951,Jeans,Clothing,1499,4.4
+952,Notebook Pack,Stationery,299,4.2
+953,Laptop Stand,Electronics,1199,4.4
+954,T-Shirt,Clothing,499,4.1
+955,Wireless Mouse,Electronics,799,4.3
+956,Running Shoes,Footwear,2499,4.5
+957,Sports Cap,Accessories,499,4.0
+958,Water Bottle,Home,399,4.3
+959,Smart Watch,Electronics,2999,4.6
+960,Water Bottle,Home,399,4.3
+961,Office Chair,Furniture,6499,4.6
+962,Keyboard,Electronics,1299,4.5
+963,Notebook Pack,Stationery,299,4.2
+964,Headphones,Electronics,1999,4.4
+965,Keyboard,Electronics,1299,4.5
+966,Bluetooth Speaker,Electronics,2599,4.5
+967,Wireless Mouse,Electronics,799,4.3
+968,Smart Watch,Electronics,2999,4.6
+969,Sunglasses,Accessories,699,4.0
+970,Formal Shirt,Clothing,1299,4.4
+971,Sunglasses,Accessories,699,4.0
+972,Laptop Stand,Electronics,1199,4.4
+973,Smartphone Cover,Accessories,399,4.1
+974,Running Shoes,Footwear,2499,4.5
+975,T-Shirt,Clothing,499,4.1
+976,Formal Shirt,Clothing,1299,4.4
+977,Smart Watch,Electronics,2999,4.6
+978,Office Chair,Furniture,6499,4.6
+979,Sports Cap,Accessories,499,4.0
+980,Power Bank,Electronics,1799,4.5
+981,Laptop Stand,Electronics,1199,4.4
+982,Sunglasses,Accessories,699,4.0
+983,Keyboard,Electronics,1299,4.5
+984,Office Chair,Furniture,6499,4.6
+985,T-Shirt,Clothing,499,4.1
+986,T-Shirt,Clothing,499,4.1
+987,Wireless Mouse,Electronics,799,4.3
+988,Headphones,Electronics,1999,4.4
+989,Headphones,Electronics,1999,4.4
+990,Laptop Stand,Electronics,1199,4.4
+991,Sunglasses,Accessories,699,4.0
+992,Smart Watch,Electronics,2999,4.6
+993,Power Bank,Electronics,1799,4.5
+994,T-Shirt,Clothing,499,4.1
+995,Smart Watch,Electronics,2999,4.6
+996,Smart Watch,Electronics,2999,4.6
+997,Coffee Mug,Home,349,4.2
+998,Power Bank,Electronics,1799,4.5
+999,Jeans,Clothing,1499,4.4
+1000,Notebook Pack,Stationery,299,4.2
+1001,Water Bottle,Home,399,4.3
+1002,Sports Cap,Accessories,499,4.0
+1003,Headphones,Electronics,1999,4.4
+1004,Headphones,Electronics,1999,4.4
+1005,Backpack,Accessories,999,4.2
+1006,Headphones,Electronics,1999,4.4
+1007,Power Bank,Electronics,1799,4.5
+1008,Coffee Mug,Home,349,4.2
+1009,Running Shoes,Footwear,2499,4.5
+1010,Wireless Mouse,Electronics,799,4.3
+1011,Smartphone Cover,Accessories,399,4.1
+1012,Wireless Mouse,Electronics,799,4.3
+1013,Formal Shirt,Clothing,1299,4.4
+1014,Wireless Mouse,Electronics,799,4.3
+1015,Smartphone Cover,Accessories,399,4.1
+1016,Keyboard,Electronics,1299,4.5
+1017,Power Bank,Electronics,1799,4.5
+1018,Headphones,Electronics,1999,4.4
+1019,Headphones,Electronics,1999,4.4
+1020,Coffee Mug,Home,349,4.2
+1021,Backpack,Accessories,999,4.2
+1022,Coffee Mug,Home,349,4.2
+1023,Running Shoes,Footwear,2499,4.5
+1024,Running Shoes,Footwear,2499,4.5
+1025,T-Shirt,Clothing,499,4.1
+1026,Backpack,Accessories,999,4.2
+1027,Coffee Mug,Home,349,4.2
+1028,Headphones,Electronics,1999,4.4
+1029,Water Bottle,Home,399,4.3
+1030,Bluetooth Speaker,Electronics,2599,4.5
+1031,Smartphone Cover,Accessories,399,4.1
+1032,Smartphone Cover,Accessories,399,4.1
+1033,Wireless Mouse,Electronics,799,4.3
+1034,Bluetooth Speaker,Electronics,2599,4.5
+1035,Backpack,Accessories,999,4.2
+1036,Jeans,Clothing,1499,4.4
+1037,Running Shoes,Footwear,2499,4.5
+1038,Wireless Mouse,Electronics,799,4.3
+1039,Smart Watch,Electronics,2999,4.6
+1040,Wireless Mouse,Electronics,799,4.3
+1041,Jeans,Clothing,1499,4.4
+1042,Keyboard,Electronics,1299,4.5
+1043,Water Bottle,Home,399,4.3
+1044,Smart Watch,Electronics,2999,4.6
+1045,Water Bottle,Home,399,4.3
+1046,Wireless Mouse,Electronics,799,4.3
+1047,Running Shoes,Footwear,2499,4.5
+1048,Notebook Pack,Stationery,299,4.2
+1049,Smartphone Cover,Accessories,399,4.1
+1050,Jeans,Clothing,1499,4.4
+1051,Notebook Pack,Stationery,299,4.2
+1052,Bluetooth Speaker,Electronics,2599,4.5
+1053,Smartphone Cover,Accessories,399,4.1
+1054,Headphones,Electronics,1999,4.4
+1055,Smart Watch,Electronics,2999,4.6
+1056,Smartphone Cover,Accessories,399,4.1
+1057,Jeans,Clothing,1499,4.4
+1058,Office Chair,Furniture,6499,4.6
+1059,Notebook Pack,Stationery,299,4.2
+1060,Keyboard,Electronics,1299,4.5
+1061,Coffee Mug,Home,349,4.2
+1062,Coffee Mug,Home,349,4.2
+1063,Jeans,Clothing,1499,4.4
+1064,Jeans,Clothing,1499,4.4
+1065,Laptop Stand,Electronics,1199,4.4
+1066,Smart Watch,Electronics,2999,4.6
+1067,Bluetooth Speaker,Electronics,2599,4.5
+1068,Laptop Stand,Electronics,1199,4.4
+1069,Water Bottle,Home,399,4.3
+1070,Headphones,Electronics,1999,4.4
+1071,Running Shoes,Footwear,2499,4.5
+1072,Running Shoes,Footwear,2499,4.5
+1073,Headphones,Electronics,1999,4.4
+1074,Smartphone Cover,Accessories,399,4.1
+1075,Power Bank,Electronics,1799,4.5
+1076,Laptop Stand,Electronics,1199,4.4
+1077,Office Chair,Furniture,6499,4.6
+1078,Notebook Pack,Stationery,299,4.2
+1079,Headphones,Electronics,1999,4.4
+1080,Sports Cap,Accessories,499,4.0
+1081,Wireless Mouse,Electronics,799,4.3
+1082,Smartphone Cover,Accessories,399,4.1
+1083,Headphones,Electronics,1999,4.4
+1084,Laptop Stand,Electronics,1199,4.4
+1085,Office Chair,Furniture,6499,4.6
+1086,Office Chair,Furniture,6499,4.6
+1087,Jeans,Clothing,1499,4.4
+1088,Desk Lamp,Home,899,4.3
+1089,Jeans,Clothing,1499,4.4
+1090,Smart Watch,Electronics,2999,4.6
+1091,Smart Watch,Electronics,2999,4.6
+1092,Headphones,Electronics,1999,4.4
+1093,Water Bottle,Home,399,4.3
+1094,Formal Shirt,Clothing,1299,4.4
+1095,Sunglasses,Accessories,699,4.0
+1096,Coffee Mug,Home,349,4.2
+1097,Power Bank,Electronics,1799,4.5
+1098,Headphones,Electronics,1999,4.4
+1099,Sunglasses,Accessories,699,4.0
+1100,Laptop Stand,Electronics,1199,4.4
+1101,Wireless Mouse,Electronics,799,4.3
+1102,Power Bank,Electronics,1799,4.5
+1103,Smart Watch,Electronics,2999,4.6
+1104,Power Bank,Electronics,1799,4.5
+1105,Jeans,Clothing,1499,4.4
+1106,Wireless Mouse,Electronics,799,4.3
+1107,Coffee Mug,Home,349,4.2
+1108,Headphones,Electronics,1999,4.4
+1109,Smartphone Cover,Accessories,399,4.1
+1110,Smartphone Cover,Accessories,399,4.1
+1111,Sunglasses,Accessories,699,4.0
+1112,Sunglasses,Accessories,699,4.0
+1113,Water Bottle,Home,399,4.3
+1114,Bluetooth Speaker,Electronics,2599,4.5
+1115,Sunglasses,Accessories,699,4.0
+1116,T-Shirt,Clothing,499,4.1
+1117,Bluetooth Speaker,Electronics,2599,4.5
+1118,Laptop Stand,Electronics,1199,4.4
+1119,Running Shoes,Footwear,2499,4.5
+1120,Keyboard,Electronics,1299,4.5
