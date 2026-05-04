@@ -108,3 +108,10 @@ streamlit run app.py
 ## 👨‍💻 Author
 
 Hruday Mahajan
+
+
+
+-----
+
+
+<img width="1424" height="793" alt="screenshots:dashboard1" src="https://github.com/user-attachments/assets/276b67dc-3f0a-4152-8d5f-8675b4546071" />
