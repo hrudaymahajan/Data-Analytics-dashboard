@@ -2,15 +2,14 @@
 
 ## 🚀 Project Overview
 
-This project is an **E-Commerce Customer Behavior Analytics Dashboard** built using Python.
+## 🚀 Project Overview
+This project is an interactive **E-Commerce Analytics Dashboard** built using Streamlit.
 
-It helps analyze:
-
-* Customer demographics
-* Sales trends
-* Revenue insights
-* Buying behavior
-
+It allows users to:
+- Filter customers by city, gender, and age
+- Analyze revenue and order trends
+- Understand customer behavior patterns
+- Visualize insights using interactive charts
 ---
 
 ## 🛠️ Tech Stack
